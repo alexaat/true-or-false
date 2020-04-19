@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TrueOrFalse</string>
+    <string name="start">Start</string>
+    <string name="rules">Try to guess whether statement is true or false.
+        \nCorrect answer earns 10 points, wrong answer -10 points, skip -5 points.
+        \nTry to get as may as possible in 1 minute!</string>
+    <string name="about">This game is designed for training purpose.
+    \nObjectives:
+    \n - learn NavigationUI(menu, Up button, Drawer, Navigation Graph and slide animation)
+    \n - learn ViewModel architecture
+    \n - create ViewModel using ViewModelProvider
+    \n - create ViewModel using ViewModelFactory
+    \n - implement Observer Pattern
+    \n - data binding between ViewModel and layout.xml
+    \n - implement vibrator patten</string>
+    <string name="score">"Score:"</string>
+    <string name="TRUE">TRUE</string>
+    <string name="FALSE">FALSE</string>
+    <string name="SKIP">SKIP</string>
+    <string name="game_over">Game Over</string>
+    <string name="score_format">Your Score: %d</string>
+    <string name="play_again">Play Again</string>
+    <string name="share_success">I would like to share my score of %d playing TRUE or FALSE game</string>
+    <string name="select_share_option">Select share option</string>
+    <string name="title_fragment_title">TRUE or FALSE</string>
+    <string name="about_fragment_title">About</string>
+    <string name="rules_fragment_title">Rules</string>
+    <string name="game_fragment_title">Question No: %d</string>
+    <string name="game_over_title">Game Over</string>
+    <string name="time_format">Time: %s</string>
+    <string name="about_label">About</string>
+    <string name="rules_label">Rules</string>
+    <string name="share_label">Share</string>
+    <string name="drawer_header_image">drawer header image</string>
+    <string name="zero">0</string>
+
+
+</resources>
